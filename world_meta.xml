@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="bc2b7773-c11e-4665-bf0a-0ca0a27bf109">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.2.5370.24111</GameVersion>
+  <DateTime>133794627166458378</DateTime>
+  <DaysPast>20</DaysPast>
+  <WorldName>Europa</WorldName>
+  <IsOnAwayMission>false</IsOnAwayMission>
+  <WorldTravelCount>0</WorldTravelCount>
+  <WorldFileName>Europa V</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>3</NumberOfRooms>
+  <NumberOfPipeNetworks>11</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>8</NumberOfCableNetworks>
+  <NumberOfThings>949</NumberOfThings>
+  <NumberOfAtmospheres>182</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
